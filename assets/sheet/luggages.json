@@ -1,0 +1,252 @@
+{"frames": [
+
+{
+	"filename": "blue/garage",
+	"frame": {"x":2,"y":1735,"w":204,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":58,"w":204,"h":197},
+	"sourceSize": {"w":314,"h":314}
+},
+{
+	"filename": "blue/luggage_cart",
+	"frame": {"x":2,"y":1450,"w":254,"h":282},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":19,"w":254,"h":282},
+	"sourceSize": {"w":314,"h":314}
+},
+{
+	"filename": "blue/tractor_front",
+	"frame": {"x":681,"y":1640,"w":186,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":14,"w":186,"h":191},
+	"sourceSize": {"w":220,"h":220}
+},
+{
+	"filename": "cyan/garage",
+	"frame": {"x":259,"y":1432,"w":206,"h":222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":55,"w":206,"h":222},
+	"sourceSize": {"w":314,"h":314}
+},
+{
+	"filename": "cyan/luggage_cart",
+	"frame": {"x":2,"y":874,"w":251,"h":286},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":11,"w":251,"h":286},
+	"sourceSize": {"w":314,"h":314}
+},
+{
+	"filename": "cyan/tractor_front",
+	"frame": {"x":512,"y":687,"w":189,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":14,"w":189,"h":191},
+	"sourceSize": {"w":220,"h":220}
+},
+{
+	"filename": "green/garage",
+	"frame": {"x":476,"y":1644,"w":202,"h":226},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":25,"w":202,"h":226},
+	"sourceSize": {"w":314,"h":314}
+},
+{
+	"filename": "green/luggage_cart",
+	"frame": {"x":2,"y":594,"w":273,"h":277},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":19,"w":273,"h":277},
+	"sourceSize": {"w":314,"h":314}
+},
+{
+	"filename": "green/tractor_front",
+	"frame": {"x":714,"y":282,"w":188,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":14,"w":188,"h":191},
+	"sourceSize": {"w":220,"h":220}
+},
+{
+	"filename": "lime/garage",
+	"frame": {"x":259,"y":1657,"w":214,"h":204},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":52,"w":214,"h":204},
+	"sourceSize": {"w":314,"h":314}
+},
+{
+	"filename": "lime/luggage_cart",
+	"frame": {"x":2,"y":2,"w":283,"h":299},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":11,"w":283,"h":299},
+	"sourceSize": {"w":314,"h":314}
+},
+{
+	"filename": "lime/tractor_front",
+	"frame": {"x":714,"y":476,"w":188,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":14,"w":188,"h":191},
+	"sourceSize": {"w":220,"h":220}
+},
+{
+	"filename": "orange/garage",
+	"frame": {"x":512,"y":881,"w":200,"h":195},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":58,"w":200,"h":195},
+	"sourceSize": {"w":314,"h":314}
+},
+{
+	"filename": "orange/luggage_cart",
+	"frame": {"x":256,"y":874,"w":253,"h":276},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":20,"w":253,"h":276},
+	"sourceSize": {"w":314,"h":314}
+},
+{
+	"filename": "orange/tractor_front",
+	"frame": {"x":706,"y":1252,"w":189,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":14,"w":189,"h":191},
+	"sourceSize": {"w":220,"h":220}
+},
+{
+	"filename": "pink/garage",
+	"frame": {"x":468,"y":1432,"w":204,"h":209},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":44,"w":204,"h":209},
+	"sourceSize": {"w":314,"h":314}
+},
+{
+	"filename": "pink/luggage_cart",
+	"frame": {"x":570,"y":2,"w":254,"h":277},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":19,"w":254,"h":277},
+	"sourceSize": {"w":314,"h":314}
+},
+{
+	"filename": "pink/tractor_front",
+	"frame": {"x":715,"y":864,"w":187,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":14,"w":187,"h":191},
+	"sourceSize": {"w":220,"h":220}
+},
+{
+	"filename": "purple/garage",
+	"frame": {"x":507,"y":487,"w":204,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":57,"w":204,"h":197},
+	"sourceSize": {"w":314,"h":314}
+},
+{
+	"filename": "purple/luggage_cart",
+	"frame": {"x":288,"y":2,"w":279,"h":276},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":19,"w":279,"h":276},
+	"sourceSize": {"w":314,"h":314}
+},
+{
+	"filename": "purple/tractor_front",
+	"frame": {"x":714,"y":670,"w":188,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":14,"w":188,"h":191},
+	"sourceSize": {"w":220,"h":220}
+},
+{
+	"filename": "red/garage",
+	"frame": {"x":507,"y":282,"w":204,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":54,"w":204,"h":202},
+	"sourceSize": {"w":314,"h":314}
+},
+{
+	"filename": "red/luggage_cart",
+	"frame": {"x":256,"y":1153,"w":252,"h":276},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":20,"w":252,"h":276},
+	"sourceSize": {"w":314,"h":314}
+},
+{
+	"filename": "red/tractor_front",
+	"frame": {"x":715,"y":1058,"w":187,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":14,"w":187,"h":191},
+	"sourceSize": {"w":220,"h":220}
+},
+{
+	"filename": "white/garage",
+	"frame": {"x":288,"y":281,"w":216,"h":205},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":55,"w":216,"h":205},
+	"sourceSize": {"w":314,"h":314}
+},
+{
+	"filename": "white/luggage_cart",
+	"frame": {"x":2,"y":304,"w":274,"h":287},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":11,"w":274,"h":287},
+	"sourceSize": {"w":314,"h":314}
+},
+{
+	"filename": "white/tractor_front",
+	"frame": {"x":675,"y":1446,"w":187,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":14,"w":187,"h":191},
+	"sourceSize": {"w":220,"h":220}
+},
+{
+	"filename": "yellow/garage",
+	"frame": {"x":279,"y":489,"w":204,"h":199},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":56,"w":204,"h":199},
+	"sourceSize": {"w":314,"h":314}
+},
+{
+	"filename": "yellow/luggage_cart",
+	"frame": {"x":2,"y":1163,"w":251,"h":284},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":11,"w":251,"h":284},
+	"sourceSize": {"w":314,"h":314}
+},
+{
+	"filename": "yellow/tractor_front",
+	"frame": {"x":512,"y":1079,"w":191,"h":187},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":16,"w":191,"h":187},
+	"sourceSize": {"w":220,"h":220}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "luggages.webp",
+	"format": "RGBA8888",
+	"size": {"w":904,"h":1934},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b6f35a8ca05d396e94770360438a667c:e8d29c30042c46d38f421e55b0a3fea7:ab9491758576783e664f8150815939cc$"
+}
+}
