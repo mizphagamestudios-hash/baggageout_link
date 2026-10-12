@@ -16,6 +16,12 @@
     <meta name="apple-mobile-web-app-title" content="Baggage Out!">
     <meta name="viewport" content="initial-scale=1 maximum-scale=1 user-scalable=0 minimal-ui" />
 
+    <!-- Playgama Bridge. Served from the CDN so the build that runs is the
+         current stable one, and so it pulls the adapter for whichever platform
+         the game is actually embedded on. It reads playgama-bridge-config.json
+         from next to this file. -->
+    <script src="https://bridge.playgama.com/v2/stable/playgama-bridge.js"></script>
+
     <script>
         var dimensions = {}
     </script>
@@ -36,13 +42,13 @@
             height: 100%;
         }
     </style>
-  <script type="module" crossorigin src="./build/index-CD2tUQbD.js"></script>
+  <script type="module" crossorigin src="./build/index-DyMUGz5q.js"></script>
 </head>
 
 <body>
     <div id='game'></div>
     <script src="js/phaser.min.js"></script>
-    <script src="js/SpinePlugin.min.js"></script>
+    <script src="js/spineplugin.min.js"></script>
 
 </body>
 
