@@ -2,8 +2,20 @@
     "advertisement": {
         "minimumDelayBetweenInterstitial": 60,
         "interstitial": {
+            "preloadOnStart": "level_completed",
+            "placementFallback": "level_completed",
             "placements": [
-                { "id": "level_completed" }
+                { "id": "level_completed" },
+                { "id": "level_retry" }
+            ]
+        },
+        "rewarded": {
+            "preloadOnStart": "double_coins",
+            "placementFallback": "double_coins",
+            "placements": [
+                { "id": "double_coins" },
+                { "id": "extra_time" },
+                { "id": "store_coins" }
             ]
         }
     }
